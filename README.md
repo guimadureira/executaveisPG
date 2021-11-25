@@ -10,6 +10,8 @@ O movimento na câmera principal é feito da seguinte maneira:
 - As setas do teclado movem para os lados.
 - As teclas W e S movem para frente e para trás respectivamente.
 
+A tecla Tab muda entre as 4 câmeras, mas apenas a primeira câmera principal pode ser movimentada pelo usuário.
+
 **Para a execução no Windows**
 - Selecione a pasta "exec" no download feito do repositório.
 - Apenas execute o arquivo "PP_Grupo10.exe"
